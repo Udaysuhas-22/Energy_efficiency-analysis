@@ -3,14 +3,6 @@
 ## Project Overview
 This project involves analyzing the energy efficiency of buildings using machine learning and statistical methods. The study examines 12 different building shapes simulated in Ecotect, considering various features to predict cooling loads.
 
-## Team Members
-- Meghanath Somarowthu  
-- Sai Sinduri Vangala  
-- Uday Suhas Nakkapalli  
-- Chenna Keshav Chinthakindi  
-
-**Professor:** Donald Harter
-
 ## Dataset
 The dataset consists of eight features used to predict cooling load:
 - **Relative Compactness** (Continuous)
